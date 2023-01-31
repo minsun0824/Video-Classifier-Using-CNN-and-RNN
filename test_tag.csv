@@ -1,0 +1,5 @@
+item,lpips_colored,natural
+bus,0.08285625,unnatural
+camel,0.06992093,natural
+car-roundabout,0.0523875,natural
+car-shadow,0.0648375,natural
